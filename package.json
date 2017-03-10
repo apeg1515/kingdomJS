@@ -1,0 +1,32 @@
+{
+  "name": "kingdomjs",
+  "version": "1.0.0",
+  "description": "this is the Kingdom",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apeg1515/kingdomJS.git"
+  },
+  "keywords": [
+    "Kingdom",
+    "JC",
+    "JS",
+    "React",
+    "Redux",
+    "React-Router",
+    "Babel"
+  ],
+  "author": "Alex Peguero-Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apeg1515/kingdomJS/issues"
+  },
+  "homepage": "https://github.com/apeg1515/kingdomJS#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-plugin-react": "^6.10.0"
+  }
+}
