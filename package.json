@@ -48,14 +48,20 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
+    "bcrypt": "^1.0.2",
     "body-parser": "^1.17.1",
+    "colors": "^1.1.2",
     "express": "^4.15.2",
     "jsonwebtoken": "^7.3.0",
     "lodash": "^4.17.4",
+    "mailgun-es6": "^1.1.4",
     "mongoose": "^4.8.6",
     "morgan": "^1.8.1",
     "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth": "^1.0.0",
     "passport-jwt": "^2.2.1",
+    "passport-twitter": "^1.0.4",
     "react": "^15.4.2",
     "react-cookie": "^1.0.4",
     "react-dom": "^15.4.2",
@@ -65,6 +71,8 @@
     "redux-thunk": "^2.2.0",
     "rx": "^4.1.0",
     "serve-favicon": "^2.4.1",
-    "socket.io": "^1.7.3"
+    "socket.io": "^1.7.3",
+    "stripe": "^4.15.1",
+    "twilio": "^2.11.1"
   }
 }
