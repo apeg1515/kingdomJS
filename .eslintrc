@@ -18,11 +18,11 @@
     ],
     "rules": {
         "indent": [
-            "error",
+            2,
             "tab"
         ],
         "linebreak-style": [
-            "error",
+            2,
             "unix"
         ],
         "quotes": [
@@ -30,8 +30,8 @@
             "single"
         ],
         "semi": [
-            "error",
-            "never"
+            2,
+            "off"
         ],
         "react/jsx-uses-react": "error",
         "react/jsx-uses-vars": "error",
